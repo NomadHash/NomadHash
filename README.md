@@ -2,7 +2,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?color=gradient&text=Make_time_on_my_side⏱&fontColor=ffffff&fontSize=60&animation=fadeIn&height=250)
+![header](https://capsule-render.vercel.app/api?color=gradient&text=집좀보내주&fontColor=ffffff&fontSize=60&animation=fadeIn&height=250)
  
 ![React](https://img.shields.io/badge/React-61DAEB?style=flat-square&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
