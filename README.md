@@ -19,8 +19,4 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 
-### 시간을 내편으로 만들어 하루하루 꾸준하게 🧑🏻‍💻                                                                   
-
-단순하지만 정직한 코드를 쓰기위해 노력합니다 :)</strong>
-
 </div>
